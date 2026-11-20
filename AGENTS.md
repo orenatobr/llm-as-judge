@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `llm-as-judge` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill that has an independent model score the last turn from 0 to 10.
+This repo packages the `llm-as-judge` agent skill. Agent skill that has an independent model score the last turn from 0 to 10.
 
 ## Layout
 
